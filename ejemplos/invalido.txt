@@ -1,0 +1,4 @@
+1,Pikachu,20,Lucas
+2,Lapras,35,Abril
+3,Jynx,2Nico
+4,Charmander,19,Lucas

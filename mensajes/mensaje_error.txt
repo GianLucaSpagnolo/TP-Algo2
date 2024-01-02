@@ -1,0 +1,8 @@
+
+	╔══════════════════════════════════════╗
+	║  Ha ocurrido un problema de memoria  ║
+	║  al ejecutar el archivo, por lo que  ║
+	║  debe finalizar abruptamente.        ║
+	║                                      ║
+	║  Codigo de error: 201              Ø ║
+	╚══════════════════════════════════════╝

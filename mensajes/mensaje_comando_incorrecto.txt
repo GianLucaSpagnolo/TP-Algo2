@@ -1,0 +1,9 @@
+
+	╔══════════════════════════════════════════════════╗
+	║  El comando ingresado es incorrecto.             ║
+	║  Solo las letras correspondientes ingresadas     ║
+	║  EN MAYUSCULA son validas.                       ║
+	║                                                  ║
+	║  Recuerde que ingresando « H » puede desplegar   ║
+	║  el menu de ayuda con todas las teclas validas.  ║
+	╚══════════════════════════════════════════════════╝

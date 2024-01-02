@@ -1,0 +1,9 @@
+
+	╔══════════════════════════════════════╗
+	║  Ha ocurrido un error al cargar el   ║
+	║  archivo. El error se puede deber a  ║
+	║  un formato incorrecto del archivo   ║
+	║  cargado, o a un error de memoria.   ║
+	║                                      ║
+	║  Codigo de error: 203              Ø ║
+	╚══════════════════════════════════════╝

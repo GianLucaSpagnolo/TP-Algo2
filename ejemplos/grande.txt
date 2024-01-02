@@ -1,0 +1,12 @@
+1,Pikachu,20,Lucas
+2,Lapras,35,Abril
+3,Jynx,2,Nico
+4,Charmander,19,Lucas
+5,Mew,98,Abril
+6,Snorlax,65,Nico
+7,Pichu,32,Lucas
+8,Scyter,88,Abril
+9,Voltorb,29,Nico
+10,Chikorita,20,Lucas
+11,Entei,99,Abril
+12,Magcargo,76,Nico
